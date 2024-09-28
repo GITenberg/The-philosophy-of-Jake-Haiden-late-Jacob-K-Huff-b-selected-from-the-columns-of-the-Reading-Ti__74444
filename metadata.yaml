@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '9299'
     url: http://www.gutenberg.org/2009/agents/9299
     wikipedia: https://en.wikipedia.org/wiki/Henry_W._Shoemaker
+covers:
+- cover_type: archival
+  image_path: 74444-h/images/cover.jpg
 creator:
   author:
     agent_name: Huff, Jacob K.
     gutenberg_agent_id: '57507'
     url: http://www.gutenberg.org/2009/agents/57507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74444#The-philosophy-of-Jake-Haiden-late-Jacob-K-Huff-b-selected-from-the-columns-of-the-Reading-Ti_
 gutenberg_issued: '2024-09-19'
 gutenberg_type: Text
 identifiers:
